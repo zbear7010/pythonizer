@@ -34,5 +34,5 @@
 ![FILES](https://img.shields.io/github/directory-file-count/zbear7010/pythonizer?extension=py&type=file&label=FILES)  
 
 - Задание - Категория(-ии) - Решение:  
-    - Упражнение 1: «Почтовый адрес» - Основы вывода: print() - [[`Exercise_01.ipynb`](https://github.com/zbear7010/pythonizer/blob/main/Exercise_01.ipynb)].  
+    - Упражнение 1: «Почтовый адрес» - Основы вывода: print() - [`Exercise_01.ipynb`](https://github.com/zbear7010/pythonizer/blob/main/Exercise_01.ipynb).  
         *Напишите несколько строк кода, выводящих на экран ваше имя и почтовый адрес. Адрес напишите в формате, принятом в вашей стране. Никакого ввода от пользователя ваша первая программа принимать не будет, **только вывод на экран** и больше ничего.*
