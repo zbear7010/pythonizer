@@ -40,6 +40,9 @@
 2. «Приветствие» - Ввод данных с клавиатуры - [`Exercise_02.py`](https://github.com/zbear7010/pythonizer/blob/main/Exercise_02.py).  
 *Запрос для ввода данных пользовательским вводом с клавиатуры. Вывод данных.*  
 
+3. `[TODO]` «Площадь комнаты» - [`Exercise_03.py`](https://github.com/zbear7010/pythonizer/blob/main/Exercise_03.py).  
+
+4. `[TODO]` «Площадь садового участка» - [`Exercise_04.py`](https://github.com/zbear7010/pythonizer/blob/main/Exercise_04.py).  
 
 ---
 ### Альтернативные решения <a name="lvl"></a>
@@ -49,6 +52,7 @@
 *Знакомство с функциональным подходом. Позиционная передача аргументов в функцию, значения аргументов в функции по умолчанию (как пример действия функции).  Документирование функций и просмотр документации.*  
 1.3. .format: Метод для гибкого форматирования - [`Exercise_01(lvl_03).py`](https://github.com/zbear7010/pythonizer/blob/main/Exercise_01(lvl_03).py).  
 *Продвинутые манипуляции с данными. Центрирование данных в строке вывода. Заполнители для строк вывода. Распаковка списков.*  
+1.4 `[TODO]` - [`Exercise_01(lvl_04).py`](https://github.com/zbear7010/pythonizer/blob/main/Exercise_01(lvl_04).py).  
 
 ---
 ### Экспромты <a name="thnk"></a>
