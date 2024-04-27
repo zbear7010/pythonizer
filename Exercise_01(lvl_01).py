@@ -17,9 +17,9 @@ city = "Москва"
 street = "Ленина пр-т"
 house = "д. 7"
 flat = "кв. 1"
-firstname = "Иван"
+firstname = "Сидор"
 lastname = "Иванов"
-patronymic = "Иванович"
+patronymic = "Петрович"
 
 # С помощью print, можно составлять довольно сложноформатированные строки.
 print("\nКуда: %d, г. %s, %s, %s, %s.\nКому: %s %s %s." %
